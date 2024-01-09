@@ -1,0 +1,42 @@
+.mainContact {
+
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(191, 164, 191);
+}
+
+.mainContact h2 {
+    text-align: center;
+    margin: 7vh;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.formm {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+form {
+    padding: 3.5vw;
+    margin: 0 2vw 2vw 2vw;
+    border: 2px solid purple;
+    border-radius: 1.5vw;
+    font-weight: bold;
+    font-size: large;
+}
+
+.icon {
+    width: 35px;
+    mix-blend-mode: multiply;
+}
+
+ .formControl input:focus{
+    outline: none;
+}
+
+#submitMsg{
+    color: green;
+    text-align: center;
+}
