@@ -7,11 +7,6 @@ Pathfinder is a comprehensive career counseling platform designed to help indivi
 - [Features](#features)
 - [Technology Stack](#technology-stack)
 - [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
@@ -28,3 +23,12 @@ Pathfinder is a comprehensive career counseling platform designed to help indivi
 - **Backend:** PHP
 - **Database:** MySQL
 - **Authentication:** JWT or OAuth
+
+## Getting Started
+
+These instructions will help you set up the project on your local machine for development and testing purposes.
+
+### Prerequisites
+
+- PHPMyAdmin
+- MySQL
